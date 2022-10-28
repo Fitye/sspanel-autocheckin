@@ -273,6 +273,8 @@ PushPlus 推送结果: 成功
 > 该方式会将源作者的内容直接强制覆盖到自己的仓库中，也就是不会保留自己已经修改过的内容。
 
 步骤如下：
+   
+   
 
 1. 确认已安装 [![pull](https://prod.download/pull-18h-svg) Pull app](https://github.com/apps/pull) 插件。
 
